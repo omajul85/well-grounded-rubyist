@@ -1,0 +1,6 @@
+namespace :admin do
+  desc "This is just a silly task"
+  task :silly_task do
+    puts 'Hello world from Rake!'
+  end
+end

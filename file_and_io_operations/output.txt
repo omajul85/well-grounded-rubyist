@@ -1,0 +1,7 @@
+Omar is 33 years old and is a Engineer.
+Daniel is 31 years old and is a Engineer.
+Laura is 21 years old and is a Student.
+Silvia is 17 years old and is a Student.
+Tito is 57 years old and is a Engineer.
+Lorena is 57 years old and is a Physiotherapeut.
+The average age of this family is 36.0 years old.

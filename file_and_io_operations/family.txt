@@ -1,0 +1,6 @@
+Omar|Engineer|33
+Daniel|Engineer|31
+Laura|Student|21
+Silvia|Student|17
+Tito|Engineer|57
+Lorena|Physiotherapeut|57
